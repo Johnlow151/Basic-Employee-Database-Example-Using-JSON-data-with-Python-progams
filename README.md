@@ -1,0 +1,2 @@
+This is an example program to practice extracting data from a json file, formatting it, making changes to it, and finally saving the newly edited data with the same normalization standards that the json file originally had regardless of user input. An example being if
+The user where to enter "name" instead of "Name" when entering a category the program will make corrections automatically. Further, this program is GUI based using the Tkinter library and as a distrobutable package has been converted to an .exe file using pyinstaller.
